@@ -1,1 +1,2 @@
-# The better petrik devs
+- petrik devs
+- we gets shit done
