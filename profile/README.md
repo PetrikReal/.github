@@ -1,2 +1,2 @@
 - petrik devs
-- we gets shit done
+- we dont get shit done anymore
